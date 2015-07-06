@@ -1,0 +1,6 @@
+*.classpath
+InternProj1/.project
+*.prefs
+InternProj1/bin/PostgreSQLJDBC.class
+*.class
+InternProj1-recent/.project
